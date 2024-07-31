@@ -1,2 +1,2 @@
 # Simon-Says-Game
-this is my first game
+this is my first game.
